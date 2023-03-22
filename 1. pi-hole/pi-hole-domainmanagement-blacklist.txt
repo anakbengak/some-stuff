@@ -1,0 +1,13 @@
+Domains -> Domain Management
+Tambahkan satu per satu, lalu klik Add to Blacklist
+(\.|^)googlesyndication\.com$ -> Type: Regex blacklist
+(\.|^)doubleclick\.net$ -> Type: Regex blacklist
+adclick.g.doubleclick.net -> Type: Exact blacklist
+
+
+Adlists :
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://raw.githubusercontent.com/laksa19/indo-ads/master/indo-ads.txt
+https://v.firebog.net/hosts/AdguardDNS.txt
+https://phishing.army/download/phishing_army_blocklist_extended.txt
+https://tpc.googlesyndication.com/
